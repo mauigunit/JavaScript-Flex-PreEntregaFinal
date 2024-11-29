@@ -1,0 +1,18 @@
+.colorPrecioNormal {
+    color: rgb(0, 100, 0);
+}
+
+.card {
+    margin-right: 1rem;
+}
+
+.btn-horizontal {
+    width: 2rem;
+}
+
+.elementCenter {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;     /* Centra verticalmente */
+    height: 50vh;           /* Usa toda la altura de la ventana */
+}

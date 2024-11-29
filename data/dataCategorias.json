@@ -1,0 +1,148 @@
+{
+    "supermercado": {
+        "categorias": [
+            {
+                "id": 1,
+                "nombre": "Frutas y Verduras"
+            },
+            {
+                "id": 2,
+                "nombre": "Lácteos"
+            },
+            {
+                "id": 3,
+                "nombre": "Carnes"
+            },
+            {
+                "id": 4,
+                "nombre": "Panadería"
+            },
+            {
+                "id": 5,
+                "nombre": "Productos Congelados"
+            },
+            {
+                "id": 6,
+                "nombre": "Bebidas"
+            },
+            {
+                "id": 7,
+                "nombre": "Productos de Aseo"
+            }
+        ],
+        "productos": [
+            {
+                "id": 1,
+                "idCategoria": 2,
+                "producto": "Yogurt",
+                "Precio": 540,
+                "stock": 100
+            },
+            {
+                "id": 2,
+                "idCategoria": 2,
+                "producto": "Leche",
+                "Precio": 400,
+                "stock": 50
+            },
+            {
+                "id": 3,
+                "idCategoria": 3,
+                "producto": "Pollo",
+                "Precio": 1500,
+                "stock": 200
+            },
+            {
+                "id": 4,
+                "idCategoria": 3,
+                "producto": "Carne de res",
+                "Precio": 2500,
+                "stock": 75
+            },
+            {
+                "id": 5,
+                "idCategoria": 1,
+                "producto": "Manzana",
+                "Precio": 600,
+                "stock": 300
+            },
+            {
+                "id": 6,
+                "idCategoria": 1,
+                "producto": "Plátano",
+                "Precio": 350,
+                "stock": 400
+            },
+            {
+                "id": 7,
+                "idCategoria": 4,
+                "producto": "Pan de molde",
+                "Precio": 250,
+                "stock": 120
+            },
+            {
+                "id": 8,
+                "idCategoria": 4,
+                "producto": "Baguette",
+                "Precio": 150,
+                "stock": 180
+            },
+            {
+                "id": 9,
+                "idCategoria": 5,
+                "producto": "Pizza congelada",
+                "Precio": 1200,
+                "stock": 50
+            },
+            {
+                "id": 10,
+                "idCategoria": 5,
+                "producto": "Papas fritas congeladas",
+                "Precio": 800,
+                "stock": 150
+            },
+            {
+                "id": 11,
+                "idCategoria": 6,
+                "producto": "Cerveza",
+                "Precio": 700,
+                "stock": 200
+            },
+            {
+                "id": 12,
+                "idCategoria": 6,
+                "producto": "Soda",
+                "Precio": 350,
+                "stock": 500
+            },
+            {
+                "id": 13,
+                "idCategoria": 7,
+                "producto": "Detergente",
+                "Precio": 450,
+                "stock": 300
+            },
+            {
+                "id": 14,
+                "idCategoria": 7,
+                "producto": "Jabón de baño",
+                "Precio": 150,
+                "stock": 600
+            },
+            {
+                "id": 15,
+                "idCategoria": 7,
+                "producto": "Jabón de manos",
+                "Precio": 150,
+                "stock": 600
+            },
+            {
+                "id": 16,
+                "idCategoria": 1,
+                "producto": "Mandarina",
+                "Precio": 350,
+                "stock": 400
+            }
+        ]
+    }
+}
