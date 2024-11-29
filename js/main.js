@@ -43,7 +43,7 @@ const getCarritoStorage = (key) => {
 }
 
 const resumenCompra = () => {
-    window.location.href = "./pages/verificarCompra.html";
+    window.location.href = "pages/verificarCompra.html";
 }
 
 const actualizarProductoCarrito = (idProducto, accion) => {
